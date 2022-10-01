@@ -5,3 +5,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
 In this challenge, we'll build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+
+
+
+Notebook link on Kaggle: https://www.kaggle.com/code/sohileadel/titanic-classification-problem
